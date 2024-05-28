@@ -1,4 +1,9 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# OUTPUT
+
+
+https://github.com/Priyanka28k/ImageSlider/assets/104508277/43be0216-5423-4804-95d8-e19a9f83d6b9
+
 
 # Getting Started
 
